@@ -1,20 +1,10 @@
-Date: 12/2/2022
-Time: 23:4
+Date: 13/2/2022
+Time: 3:36
 Group ID: CsAe0NnmW1n1eRf7P7IE61
-Message: Testing message
---------------------
-Date: 12/2/2022
-Time: 23:53
-Group ID: CsAe0NnmW1n1eRf7P7IE61
-Message: dhṛitarāśhtra uvācha dharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ māmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya
+Message: dhritarashtra uvacha dharma-kshetre kuru-kshetre samaveta yuyutsavah mamakah pandavashchaiva kimakurvata sanjaya>
 --------------------
 Date: 13/2/2022
-Time: 0:21
+Time: 3:43
 Group ID: CsAe0NnmW1n1eRf7P7IE61
-Message: <div align="center" id="transliteration_wo_dia"><p>dhritarashtra uvacha<br/> dharma-kshetre kuru-kshetre samaveta yuyutsavah<br/> mamakah pandavashchaiva kimakurvata sanjaya</p></div>
---------------------
-Date: 13/2/2022
-Time: 0:29
-Group ID: CsAe0NnmW1n1eRf7P7IE61
-Message: <div align="center" id="transliteration_wo_dia"><p>dhritarashtra uvacha<br/> dharma-kshetre kuru-kshetre samaveta yuyutsavah<br/> mamakah pandavashchaiva kimakurvata sanjaya</p></div>
+Message: dhritarashtra uvacha dharma-kshetre kuru-kshetre samaveta yuyutsavah mamakah pandavashchaiva kimakurvata sanjaya>
 --------------------
