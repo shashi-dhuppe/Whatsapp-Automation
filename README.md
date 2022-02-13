@@ -6,9 +6,9 @@
 
 ### Pending Steps:
 
-1. Making py file from notebook
-2. Building Main
-3. Automation using local cron expression
+1. Reading env from another file
+2. Getting pref groupId
+3. Cron expression
 
 ### Sources:
 
